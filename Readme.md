@@ -4,4 +4,4 @@ Basic unix shell written in C from [this repository](https://github.com/codecraf
 
 Idea of developpement: 
 - Customizing the prompt 
-- Adding compatibility with more built in commands 
+- Adding more built in commands 
